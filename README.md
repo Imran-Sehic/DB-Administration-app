@@ -1,1 +1,1 @@
-# DB-Administration-app
+This is a simple database administration app made in Java using the Swing library and MySQL database, so in order for this application to work properly you have to have a valid connection to a MySQL database.
